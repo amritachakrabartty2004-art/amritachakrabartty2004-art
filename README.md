@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amrita Chakrabartty</h1>
-<h3 align="center">2nd year CS student passionate about building with C, C++, Java, Python & HTML. Always learning, always shipping.</h3>
+<h3 align="center">3rd year CS student passionate about building with C, C++, Java, Python & HTML. Always learning, always shipping.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrirachakrabartty2004-art&label=Profile%20views&color=0e75b6&style=flat" alt="amrirachakrabartty2004-art" /> </p>
 
